@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Powered by</h3>
-  <img src="https://brunoo1545.github.io/assets/img/projects/be_engine_2.png" width=auto height=auto>
+  <img src="https://github.com/Coffee-Mug-Games/.github/raw/main/assets/be_engine_2.png" width=auto height=auto>
   
   <br>
   <br>
@@ -12,5 +12,5 @@
   <br>
   
   <p>Maked with love from</p>
-  <img src="https://github.com/BRUNOO1545/BRUNOO1545/raw/main/assets/argentina_emoji.png" width=64 height=auto>
+  <img src="https://github.com/Coffee-Mug-Games/.github/raw/main/assets/argentina_emoji.png" width=64 height=auto>
 </div>
