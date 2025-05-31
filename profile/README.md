@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Powered by</h3>
-  <img src="https://github.com/Coffee-Mug-Games/.github/raw/main/assets/be_engine_2.png" width=auto height=auto>
+  <img src="https://github.com/Lightning-Coffee-Games/.github/raw/main/assets/be_engine_2.png" width=auto height=auto>
   
   <br>
   <br>
